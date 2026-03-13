@@ -58,9 +58,9 @@ pip install -r requirements.txt
 python threat_detector.py
 
 Output:
-======================================================================
+
 SECURITY THREAT DETECTION - PATTERN BASED
-======================================================================
+
 
 📋 Payload: SELECT * FROM users WHERE id=1
 🔍 Threats Detected: ['SQL_INJECTION']
@@ -80,7 +80,7 @@ python soc_dashboard.py
 Output:
 ======================================================================
 SOC THREAT DASHBOARD
-======================================================================
+
 
 Total Alerts: 4
 Timestamp: 2026-03-08 14:35:22
@@ -137,7 +137,7 @@ Code
 
 ======================================================================
 SECURITY THREAT DETECTION - PATTERN BASED
-======================================================================
+
 
 📋 Payload: SELECT * FROM users WHERE id=1
 🔍 Threats Detected: ['SQL_INJECTION']
@@ -163,7 +163,7 @@ Code
 
 ======================================================================
 SOC THREAT DASHBOARD
-======================================================================
+
 
 Total Alerts: 4
 Timestamp: 2026-03-08 14:35:22
